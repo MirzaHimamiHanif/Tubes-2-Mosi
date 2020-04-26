@@ -1,1 +1,3 @@
-# Tubes-2-Mosi
+# Random Walk
+Random Walk adalah suatu metode untuk melakukan pergerakan sehingga terbuatlah lintasan dengan menggunakan suatu bilangan acak. Metode ini dibagi menjadi dua jenis yaitu Random Walk in Infinite Space yang berarti bisa bergerak tanpa ada batasan ruang dan Random Walk in Finite Space dimana pergerakan dibatasi oleh suatu ruang. Kedua jenis random walk ini bisa menggunakan berbagai macam dimensi maupun arah pergerakan. Untuk Random Walk in Infinite Space diperlukan suatu metode agar pergerakan bisa tetap berlanjut jika telah melewati batas ruang, salah satunya adalah Periodic Boundary Condition (PBC) yang memindahkan pergerakan ke sisi yang berlawanan. Penggunaan Random Walk bisa digunakan untuk memodelkan stock market, pergerakan hewan dan lain-lain. Disini kami menggunakan Random Walk untuk memodelkan penularan penyakit dalam suatu komunitas.
+
